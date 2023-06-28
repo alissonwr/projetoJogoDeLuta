@@ -1,0 +1,1 @@
+Projeto de um jogo de luta simples possuindo uma transição de cenário de fundo ao ser clicado. O projeto em si me ajudou bastante a por em prática os conhecimentos em Javascript que estava estudando, além de revisitar as tecnologias Html e Css.
